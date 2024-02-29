@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const sata = axios.create({
-  baseURL: "http://localhost:2222",
+  baseURL: "https://waseetb.onrender.com",
 });
 
 export default  sata;
