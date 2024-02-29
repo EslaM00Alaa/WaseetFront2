@@ -1,0 +1,22 @@
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.logo .arlogo {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: #ff8b64;
+    width: 150px;
+}
+.arlogo img {
+    width: 30px;
+    height: 30px;
+    margin-right: 4px;
+}
+.logo .enlogo {
+    color: #ff8b64;
+    width: 150px;
+}
